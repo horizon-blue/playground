@@ -1,2 +1,13 @@
-# playground
-A repository where I put a record of my study
+# The Playground.
+## Introduction.
+Basically, this is just a simple repository where I put all kinds of stuff related to my study into. I will use this repo in addition to my blog [Forest of Horizon.](http://www.forestofhorizon.com/) to keep a record of my study (mostly about programming).
+
+This is not a "project," and I am not planning to make it magnificent either. It would be great if you find my codes useful, but please be careful: since I am just a beginning programmer, the programs I put here might not be safe or reliable (๑•́ ₃ •̀๑). Although I would like to help if anything goes wrong (and if I am able to), **I am not responsible for any damage that is caused by my code**.
+
+And that's it! I can't think of anything else to say at this moment, and when I do, I will update this readme file. Thanks for clicking into this repository, and hope that you will enjoy the stuffs I put here ヽ(●´∀`●)ﾉ.
+
+-- Horiozn Blue | 蓝色天际
+
+## Table of Contents.
+- [Solutions to Online Judges](Solutions-to-OJs)
+  - [USACO Training](Solutions-to-OJs/USACO)
