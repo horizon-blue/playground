@@ -6,7 +6,7 @@ This is not a "project," and I am not planning to make it magnificent either. It
 
 And that's it! I can't think of anything else to say at this moment, and when I do, I will update this readme file. Thanks for clicking into this repository, and hope that you will enjoy the stuffs I put here ヽ(●´∀`●)ﾉ.
 
--- Horiozn Blue | 蓝色天际
+-- _HorioznBlue | 蓝色天际_
 
 ## Table of Contents.
 - [Solutions to Online Judges](Solutions-to-OJs)
