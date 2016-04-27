@@ -11,3 +11,9 @@ And that's it! I can't think of anything else to say at this moment, and when I 
 ## Table of Contents.
 - [Solutions to Online Judges](Solutions-to-OJs)
   - [USACO Training](Solutions-to-OJs/USACO)
+    - [Chapter 1: Getting started](/Solutions-to-OJs/USACO/Chapter1)
+      - [Section 1.1](Solutions-to-OJs/USACO/Chapter1/1.1)
+      - [Section 1.2](Solutions-to-OJs/USACO/Chapter1/1.2)
+      - [Section 1.3](Solutions-to-OJs/USACO/Chapter1/1.3)
+      - [Section 1.4](Solutions-to-OJs/USACO/Chapter1/1.4)
+      - [Section 1.5](Solutions-to-OJs/USACO/Chapter1/1.5)
