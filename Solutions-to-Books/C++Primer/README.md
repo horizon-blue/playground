@@ -22,3 +22,4 @@ notes for my study, but it is also great if you find the codes helpful.
 - [Chapter 7: Classes](Chapter7)
 - [Chapter 8: The IO Library](Chapter8)
 - [Chapter 9: Sequential Containters](Chapter9)
+- [Chapter 10: Generic Algorithms](Chapter10)
