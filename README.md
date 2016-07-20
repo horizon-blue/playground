@@ -30,3 +30,5 @@ And that's it! I can't think of anything else to say at this moment, and when I 
     - [Chapter 7: Classes](Solutions-to-Books/C++Primer/Chapter7)
     - [Chapter 8: The IO Library](Solutions-to-Books/C++Primer/Chapter8)
     - [Chapter 9: Sequential Containters](Solutions-to-Books/C++Primer/Chapter9)
+    - [Chapter 10: Generic Algorithms](Solutions-to-Books/C++Primer/Chapter10)
+    
