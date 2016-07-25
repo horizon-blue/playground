@@ -14,13 +14,17 @@ notes for my study, but it is also great if you find the codes helpful.
 
 ## Table of Contents.
 - [Chapter 1: Getting Started](Chapter01)
-- [Chapter 2: Variables and Basic Types](Chapter02)
-- [Chapter 3: Strings, Vectors, and Arrays](Chapter03)
-- [Chapter 4: Expressions](Chapter04)
-- [Chapter 5: Statements](Chapter05)
-- [Chapter 6: Functions](Chapter06)
-- [Chapter 7: Classes](Chapter07)
-- [Chapter 8: The IO Library](Chapter08)
-- [Chapter 9: Sequential Containters](Chapter09)
-- [Chapter 10: Generic Algorithms](Chapter10)
-- [Chapter 11: Associative Containers](Chapter11)
+- Part I: The Basics
+	- [Chapter 2: Variables and Basic Types](Chapter02)
+	- [Chapter 3: Strings, Vectors, and Arrays](Chapter03)
+	- [Chapter 4: Expressions](Chapter04)
+	- [Chapter 5: Statements](Chapter05)
+	- [Chapter 6: Functions](Chapter06)
+	- [Chapter 7: Classes](Chapter07)
+- Part II: The C++ Library
+	- [Chapter 8: The IO Library](Chapter08)
+	- [Chapter 9: Sequential Containters](Chapter09)
+	- [Chapter 10: Generic Algorithms](Chapter10)
+	- [Chapter 11: Associative Containers](Chapter11)
+	- [Chapter 12: Dynamic Memory](Chapter12)
+	
