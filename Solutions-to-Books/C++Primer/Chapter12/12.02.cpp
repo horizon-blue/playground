@@ -46,20 +46,20 @@ void StrBlob::pop_back() {
 
 string& StrBlob::front() {
 	check(0, "front on empty StrBlob");
-	data -> front();
+	return data -> front();
 }
 
 string& StrBlob::back() {
 	check(0, "back on empty StrBlob");
-	data -> back();
+	return data -> back();
 }
 
 const string& StrBlob::front() const {
 	check(0, "front on empty StrBlob");
-	data -> front();
+	return data -> front();
 }
 
 const string& StrBlob::back() const {
 	check(0, "back on empty StrBlob");
-	data -> back();
+	return data -> back();
 }
