@@ -27,4 +27,6 @@ notes for my study, but it is also great if you find the codes helpful.
 	- [Chapter 10: Generic Algorithms](Chapter10)
 	- [Chapter 11: Associative Containers](Chapter11)
 	- [Chapter 12: Dynamic Memory](Chapter12)
+- Part III: Tools for Class Authors
+	- [Chapter 13: Copy Control](Chapter13)
 	

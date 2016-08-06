@@ -35,4 +35,6 @@ And that's it! I can't think of anything else to say at this moment, and when I 
 	    - [Chapter 10: Generic Algorithms](Solutions-to-Books/C++Primer/Chapter10)
 	    - [Chapter 11: Associative Containers](Solutions-to-Books/C++Primer/Chapter11)
 	    - [Chapter 12: Dynamic Memory](Solutions-to-Books/C++Primer/Chapter12)
+    - Part III: Tools for Class Authors
+      - [Chapter 13: Copy Control](Solutions-to-Books/C++Primer/Chapter13)
     
