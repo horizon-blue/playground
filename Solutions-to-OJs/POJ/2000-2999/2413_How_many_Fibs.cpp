@@ -139,8 +139,8 @@ void findfibs(int num) {
 	// fibs[1] = LargeInt(1);
 	// fibs[2] = LargeInt(2);
 	for(int i = 3; i <= num; ++i) {
-		fibs.push_back(LargeInt());
-		fibs[i] += fibs[i-1];
+		fibs.push_back(fibs[i-1]);
+		// fibs[i] += fibs[i-1];
 		fibs[i] += fibs[i-2];
 	}
 
