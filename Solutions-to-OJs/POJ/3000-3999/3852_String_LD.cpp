@@ -1,5 +1,4 @@
 // Xiaoyan Wang 9/4/2016
-// UNTESTED
 #include <iostream>
 #include <set>
 #include <string>

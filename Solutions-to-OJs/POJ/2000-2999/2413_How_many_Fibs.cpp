@@ -1,5 +1,4 @@
 // Xiaoyan Wang 9/4/2016
-// UNTESTED
 #include <iostream>
 #include <vector>
 #include <string>
@@ -8,10 +7,10 @@ using namespace std;
 
 class LargeInt {
 public:
-	LargeInt(): value(string(101, 0)) { }
+	LargeInt(): value(string(102, 0)) { }
 	LargeInt(const string& s): value(s) { }
-	LargeInt(int num): value(string(101, 0)) {
-		for(int i = 100; i > 0 && num; --i) {
+	LargeInt(int num): value(string(102, 0)) {
+		for(int i = 101; i > 0 && num; --i) {
 			value[i] = num % 10;
 			num /= 10;
 		}
@@ -26,7 +25,7 @@ public:
 
 	LargeInt &operator +=(const LargeInt &rhs) {
 		int carryout = 0;
-		for(int i = 100; i > 0; --i) {
+		for(int i = 101; i > 0; --i) {
 			int temp = value[i] + rhs[i] + carryout;
 
 			// if(temp == 0)
@@ -77,9 +76,9 @@ public:
 	friend istream& operator >>(istream& is, LargeInt &lg) {
 		string temp;
 		is >> temp;
-		if(temp.length() < 101) {
-			lg.value.reserve(101);
-			lg.value = string(101 - temp.length(), 0);
+		if(temp.length() < 102) {
+			lg.value.reserve(102);
+			lg.value = string(102 - temp.length(), 0);
 			for(int i = 0; i < temp.length(); ++i)
 				lg.value.push_back(temp[i] - 48);
 		}
@@ -90,7 +89,7 @@ public:
 
 	// for debugging purpose
 	friend ostream& operator <<(ostream &os, const LargeInt &lg) {
-		for(int i = 1; i < 101; ++i)
+		for(int i = 1; i < 102; ++i)
 			os << static_cast<char>(lg.value[i] + 48);
 		return os;
 	}
@@ -112,7 +111,7 @@ int main() {
 	// cout << endl;
 
 	LargeInt a, b;
-	LargeInt zero = string(101, 0);
+	LargeInt zero = string(102, 0);
 	while(cin >> a >> b && b != zero) {
 		int count = 0;
 		for(int i = 1; i <= 500; ++i) {

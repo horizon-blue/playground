@@ -1,5 +1,4 @@
-// Xiaoyan Wang 9/4/2016
-// UNTESTED
+// Xiaoyan Wang 9/4/2016d
 #include <iostream>
 #include <string>
 #include <vector>
