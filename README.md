@@ -10,6 +10,12 @@ And that's it! I can't think of anything else to say at this moment, and when I 
 
 ## Table of Contents.
 - [Solutions to Online Judges](Solutions-to-OJs)
+  - [PKU JudgeOnline (POJ)](Solutions-to-OJs/POJ)
+    - [Problem ID 1000 - 1999](Solutions-to-OJs/POJ/1000-1999)
+    - [Problem ID 2000 - 2999](Solutions-to-OJs/POJ/2000-2999)
+    - [Problem ID 3000 - 3999](Solutions-to-OJs/POJ/3000-3999)
+  - [Sphere Online Judge (SPOJ)](Solutions-to-OJs/SPOJ)
+    - [basic](Solutions-to-OJs/SPOJ/basic)
   - [USACO Training](Solutions-to-OJs/USACO)
     - [Chapter 1: Getting started](/Solutions-to-OJs/USACO/Chapter1)
       - [Section 1.1](Solutions-to-OJs/USACO/Chapter1/1.1)
@@ -19,10 +25,6 @@ And that's it! I can't think of anything else to say at this moment, and when I 
       - [Section 1.5](Solutions-to-OJs/USACO/Chapter1/1.5)
     - [Chapter 2: Bigger Challenges](/Solutions-to-OJs/USACO/Chapter2)
       - [Section 2.1](Solutions-to-OJs/USACO/Chapter2/2.1)
-  - [PKU JudgeOnline (POJ)](Solutions-to-OJs/POJ)
-  	- [Problem ID 1000 - 1999](Solutions-to-OJs/POJ/1000-1999)
-  	- [Problem ID 2000 - 2999](Solutions-to-OJs/POJ/2000-2999)
-  	- [Problem ID 3000 - 3999](Solutions-to-OJs/POJ/3000-3999)
 - [Solutions to Books](Solutions-to-Books)
   - [C++ Primer](Solutions-to-Books/C++Primer) (5th edition)
     - [Chapter 1: Getting Started](Solutions-to-Books/C++Primer/Chapter01)
