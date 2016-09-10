@@ -25,7 +25,7 @@ And that's it! I can't think of anything else to say at this moment, and when I 
       - [Section 1.5](Solutions-to-OJs/USACO/Chapter1/1.5)
     - [Chapter 2: Bigger Challenges](/Solutions-to-OJs/USACO/Chapter2)
       - [Section 2.1](Solutions-to-OJs/USACO/Chapter2/2.1)
-  - [UVa Online Judge](Solutions-to-OJs/UVa)
+  - [UVa Online Judge (UVa)](Solutions-to-OJs/UVa)
 - [Solutions to Books](Solutions-to-Books)
   - [C++ Primer](Solutions-to-Books/C++Primer) (5th edition)
     - [Chapter 1: Getting Started](Solutions-to-Books/C++Primer/Chapter01)
