@@ -1,5 +1,4 @@
 // Xiaoyan Wang 9/11/2016
-// UNTESTED..
 #include <iostream>
 #include <string>
 #include <sstream>
@@ -31,13 +30,14 @@ int main() {
 
 	getline(cin, temp);
 	getline(cin, temp);
-	getline(cin, temp);
+	
 	// while(getline(cin, temp) && temp.empty());
 	while(cases--) {
 		vector<Contestant> cont;
 		cont.reserve(101);
 		for(int i = 0; i < 101; ++i)
 			cont.emplace_back(i);
+		getline(cin, temp);
 
 		do {
 			istringstream iss(temp);
