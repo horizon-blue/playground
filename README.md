@@ -16,6 +16,7 @@ And that's it! I can't think of anything else to say at this moment, and when I 
     - [Problem ID 3000 - 3999](Solutions-to-OJs/POJ/3000-3999)
   - [Sphere Online Judge (SPOJ)](Solutions-to-OJs/SPOJ)
     - [basic](Solutions-to-OJs/SPOJ/basic)
+    - [classical](Solutions-to-OJs/SPOJ/classical)
   - [USACO Training](Solutions-to-OJs/USACO)
     - [Chapter 1: Getting started](/Solutions-to-OJs/USACO/Chapter1)
       - [Section 1.1](Solutions-to-OJs/USACO/Chapter1/1.1)
