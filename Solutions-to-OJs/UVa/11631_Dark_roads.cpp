@@ -1,6 +1,7 @@
 #include <iostream>
 #include <algorithm> // for std::sort
 #include <unordered_set>
+#include <vector>
 using namespace std;
 
 struct Edge {
@@ -36,14 +37,17 @@ int main() {
 		}
 		sort(roads.begin(), roads.end());
 
-		vector<int> parents(m, -1);
+		vector<int> parents;
+		parents.reserve(m);
+		for(int i = 0; i < m; ++i)
+			parents.push_back(i);
 		vector<int> groupsize(m, 1);
 		unordered_set<int> visited;
 		visited.reserve(m);
 		int totallength = 0;
 		auto loc = roads.begin();
 		int parentu, parentv;
-		while(visited.size() < m) {
+		while(visited.size() <= m && loc != roads.end()) {
 			parentu = root(loc -> u, parents);
 			parentv = root(loc -> v, parents);
 			if(parentu == parentv) { // this will create a circle
@@ -66,10 +70,10 @@ int main() {
 }
 
 int root(int a, vector<int>& parents) {
-	if(parents[a] == -1)
+	if(parents[a] == a)
 		return a;
 	int temp = a;
-	while(parents[temp] != -1)
+	while(parents[temp] != temp)
 		temp = parents[temp];
 	parents[a] = temp;
 	return temp;
