@@ -2,8 +2,8 @@
 // Add a move constructor and move-assignment operator to your String class.
 // written based on 13.44.h
 // Xiaoyan Wang 12/30/2016
-#ifndef __13_44_H__
-#define __13_44_H__
+#ifndef __13_49_H__
+#define __13_49_H__
 #include <iostream>
 #include <memory>
 #include <utility>
