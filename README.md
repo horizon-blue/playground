@@ -45,4 +45,5 @@ And that's it! I can't think of anything else to say at this moment, and when I 
 	    - [Chapter 12: Dynamic Memory](Solutions-to-Books/C++Primer/Chapter12)
     - Part III: Tools for Class Authors
       - [Chapter 13: Copy Control](Solutions-to-Books/C++Primer/Chapter13)
+      - [Chapter 14: Overloaded Operations and Conversions](Solutions-to-Books/C++Primer/Chapter14)
     

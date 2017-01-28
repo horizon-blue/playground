@@ -29,4 +29,4 @@ notes for my study, but it is also great if you find the codes helpful.
 	- [Chapter 12: Dynamic Memory](Chapter12)
 - Part III: Tools for Class Authors
 	- [Chapter 13: Copy Control](Chapter13)
-	
+	- [Chapter 14: Overloaded Operations and Conversions](Chapter14)
