@@ -1,6 +1,6 @@
 # The Playground.
 ## Introduction.
-Basically, this is just a simple repository where I put all kinds of stuff related to my study into. I will use this repo in addition to my blog [Forest of Horizon.](http://www.forestofhorizon.com/) to keep a record of my study (mostly about programming).
+Basically, this is just a simple repository where I put all kinds of stuff related to my study into. I will use this repo in addition to my blog [Forest of Horizon.](https://forest.was.blue/) to keep a record of my study (mostly about programming).
 
 This is not a "project," and I am not planning to make it magnificent either. It would be great if you find my codes useful, but please be careful: since I am just a beginning programmer, the programs I put here might not be safe or reliable (๑•́ ₃ •̀๑). Although I would like to help if anything goes wrong (and if I am able to), **I am not responsible for any damage that is caused by my code**.
 
@@ -46,4 +46,3 @@ And that's it! I can't think of anything else to say at this moment, and when I 
     - Part III: Tools for Class Authors
       - [Chapter 13: Copy Control](Solutions-to-Books/C++Primer/Chapter13)
       - [Chapter 14: Overloaded Operations and Conversions](Solutions-to-Books/C++Primer/Chapter14)
-    
